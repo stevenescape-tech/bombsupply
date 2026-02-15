@@ -29,19 +29,15 @@ export const ScreenFill = (): JSX.Element => {
       >
         {/* Top Text */}
         <div className="text-right mb-[1.5vw] w-full">
-          <p className="[font-family:'Courier_Prime',monospace] font-bold text-white text-[1.1vw] leading-[1.4] tracking-tight">
+          <p className="[font-family:'Courier_Prime',monospace] font-bold text-white text-[1vw] leading-[1.4] tracking-tight">
             i'm working on other projects
-            <br />
-            to stay up to date, join my mailing
-            <br />
-            list
           </p>
         </div>
 
 
         {/* Bottom Text */}
         <div className="text-right w-full">
-          <p className="[font-family:'Courier_Prime',monospace] font-bold text-[0.9vw] leading-[1.5] tracking-tight">
+          <p className="[font-family:'Courier_Prime',monospace] font-bold text-[1vw] leading-[1.5] tracking-tight">
             <span className="text-white">for available work email</span>
             <br />
             <span className="text-white">steven</span>
